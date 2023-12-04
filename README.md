@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akila Wickramasinghe</h1>
 <h3 align="center">Software Engineering student passionate about coding</h3>
 
-- 📝 I regularly write articles on [https://binarypub.blogspot.com/](https://binarypub.blogspot.com/)
+- 📝 I write articles on [https://binarypub.blogspot.com/](https://binarypub.blogspot.com/)
 
 - 💬 Ask me about **Java, Spring Boot, Android**
 
